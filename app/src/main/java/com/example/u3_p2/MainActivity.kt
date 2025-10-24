@@ -10,8 +10,6 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
 import com.example.u3_p2.databinding.ActivityMainBinding
-import com.example.u3_p2.data.MyDatabaseHelper
-
 
 class MainActivity : AppCompatActivity() {
 
